@@ -1,0 +1,5 @@
+# Game metadata shown on the BLOX game page and the X card.
+name = "Sniper Arena"
+description = "Free-for-all sniper deathmatch. Scope in, line up a headshot, first to 15 kills wins the round!"
+maxPlayers = 16
+genre = "fighting"

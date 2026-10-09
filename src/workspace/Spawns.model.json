@@ -1,0 +1,173 @@
+{
+ "className": "Folder",
+ "children": [
+  {
+   "name": "Spawn1",
+   "className": "SpawnLocation",
+   "properties": {
+    "Anchored": true,
+    "Size": [
+     6,
+     1,
+     6
+    ],
+    "Position": [
+     96,
+     0.5,
+     0
+    ],
+    "Color": "#e0b03a",
+    "Material": "SmoothPlastic",
+    "Neutral": true,
+    "Duration": 3
+   }
+  },
+  {
+   "name": "Spawn2",
+   "className": "SpawnLocation",
+   "properties": {
+    "Anchored": true,
+    "Size": [
+     6,
+     1,
+     6
+    ],
+    "Position": [
+     -96,
+     0.5,
+     0
+    ],
+    "Color": "#e0b03a",
+    "Material": "SmoothPlastic",
+    "Neutral": true,
+    "Duration": 3
+   }
+  },
+  {
+   "name": "Spawn3",
+   "className": "SpawnLocation",
+   "properties": {
+    "Anchored": true,
+    "Size": [
+     6,
+     1,
+     6
+    ],
+    "Position": [
+     60,
+     0.5,
+     72
+    ],
+    "Color": "#e0b03a",
+    "Material": "SmoothPlastic",
+    "Neutral": true,
+    "Duration": 3
+   }
+  },
+  {
+   "name": "Spawn4",
+   "className": "SpawnLocation",
+   "properties": {
+    "Anchored": true,
+    "Size": [
+     6,
+     1,
+     6
+    ],
+    "Position": [
+     60,
+     0.5,
+     -72
+    ],
+    "Color": "#e0b03a",
+    "Material": "SmoothPlastic",
+    "Neutral": true,
+    "Duration": 3
+   }
+  },
+  {
+   "name": "Spawn5",
+   "className": "SpawnLocation",
+   "properties": {
+    "Anchored": true,
+    "Size": [
+     6,
+     1,
+     6
+    ],
+    "Position": [
+     -60,
+     0.5,
+     72
+    ],
+    "Color": "#e0b03a",
+    "Material": "SmoothPlastic",
+    "Neutral": true,
+    "Duration": 3
+   }
+  },
+  {
+   "name": "Spawn6",
+   "className": "SpawnLocation",
+   "properties": {
+    "Anchored": true,
+    "Size": [
+     6,
+     1,
+     6
+    ],
+    "Position": [
+     -60,
+     0.5,
+     -72
+    ],
+    "Color": "#e0b03a",
+    "Material": "SmoothPlastic",
+    "Neutral": true,
+    "Duration": 3
+   }
+  },
+  {
+   "name": "Spawn7",
+   "className": "SpawnLocation",
+   "properties": {
+    "Anchored": true,
+    "Size": [
+     6,
+     1,
+     6
+    ],
+    "Position": [
+     0,
+     0.5,
+     70
+    ],
+    "Color": "#e0b03a",
+    "Material": "SmoothPlastic",
+    "Neutral": true,
+    "Duration": 3
+   }
+  },
+  {
+   "name": "Spawn8",
+   "className": "SpawnLocation",
+   "properties": {
+    "Anchored": true,
+    "Size": [
+     6,
+     1,
+     6
+    ],
+    "Position": [
+     0,
+     0.5,
+     -70
+    ],
+    "Color": "#e0b03a",
+    "Material": "SmoothPlastic",
+    "Neutral": true,
+    "Duration": 3
+   }
+  }
+ ]
+}

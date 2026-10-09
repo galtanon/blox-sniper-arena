@@ -1,0 +1,56 @@
+{
+  "name": "sniper-arena",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$path": "src/workspace",
+      "$properties": {
+        "Gravity": 196.2
+      }
+    },
+    "Lighting": {
+      "$properties": {
+        "ClockTime": 15.5,
+        "Brightness": 2.2,
+        "Ambient": [0.4, 0.38, 0.36],
+        "OutdoorAmbient": [0.55, 0.52, 0.5]
+      }
+    },
+    "Players": {
+      "$properties": {
+        "RespawnTime": 3
+      }
+    },
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      },
+      "Remotes": {
+        "$className": "Folder",
+        "Fire": { "$className": "RemoteEvent" },
+        "Reload": { "$className": "RemoteEvent" },
+        "ShotFx": { "$className": "RemoteEvent" },
+        "HitMarker": { "$className": "RemoteEvent" },
+        "KillFeed": { "$className": "RemoteEvent" },
+        "Announce": { "$className": "RemoteEvent" }
+      }
+    },
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    },
+    "StarterPlayer": {
+      "$properties": {
+        "CharacterUseJumpPower": false,
+        "CharacterJumpHeight": 7.2,
+        "CharacterWalkSpeed": 18
+      },
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
