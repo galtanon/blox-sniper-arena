@@ -12,3 +12,6 @@ A free-for-all sniper deathmatch for [BLOX](https://blox.galtapps.site) (Roblox-
 - `src/client` — weapon controls, scope/crosshair, HUD, kill feed, tracers
 - `src/shared/Config.luau` — tuning (damage, round time, kills to win, ...)
 - `src/workspace` — generated map; regenerate with `bun tools/gen-map.ts`
+
+## License
+MIT, see [LICENSE](LICENSE).
